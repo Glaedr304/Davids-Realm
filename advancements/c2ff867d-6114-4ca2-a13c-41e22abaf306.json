@@ -1,0 +1,62 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2019-03-16 01:24:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-03-16 01:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-03-16 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2019-03-16 01:18:23 +0000",
+      "minecraft:taiga_hills": "2019-03-16 01:20:58 +0000",
+      "minecraft:beach": "2019-03-16 01:22:08 +0000",
+      "minecraft:river": "2019-03-16 01:18:18 +0000",
+      "minecraft:lukewarm_ocean": "2019-03-16 01:22:40 +0000",
+      "minecraft:stone_shore": "2019-03-16 01:22:25 +0000",
+      "minecraft:plains": "2019-03-16 01:19:12 +0000"
+    },
+    "done": false
+  }
+}
